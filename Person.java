@@ -9,3 +9,7 @@ public class Person {
     this.age=age;
   }
 
+  public String getFirstname() {
+    return firstname;
+  }
+}
