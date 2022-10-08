@@ -1,6 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< HEAD:out/production/test/.idea/.gitignore
 <<<<<<< HEAD
 # Editor-based HTTP Client requests
 /httpRequests/
@@ -9,3 +10,6 @@
 /dataSources.local.xml
 =======
 >>>>>>> ef174dbb61835adeb164d9365c0ea8af1f349aac
+=======
+
+>>>>>>> 02d197a90fe097228a1cf982c90359b1156baf28:out/test/test/.idea/.gitignore
