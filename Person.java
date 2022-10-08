@@ -7,5 +7,7 @@ public class Person {
     this.lastname  = lname;
   }
 
-  
+  public String getFirstname() {
+    return firstname;
+  }
 }
